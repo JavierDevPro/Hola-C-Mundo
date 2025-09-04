@@ -1,0 +1,15 @@
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/bin/Debug/net8.0/Hola-C-Mundo
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/bin/Debug/net8.0/Hola-C-Mundo.deps.json
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/bin/Debug/net8.0/Hola-C-Mundo.runtimeconfig.json
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/bin/Debug/net8.0/Hola-C-Mundo.dll
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/bin/Debug/net8.0/Hola-C-Mundo.pdb
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/Debug/net8.0/Hola-C-Mundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/Debug/net8.0/Hola-C-Mundo.AssemblyInfoInputs.cache
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/Debug/net8.0/Hola-C-Mundo.AssemblyInfo.cs
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/Debug/net8.0/Hola-C-Mundo.csproj.CoreCompileInputs.cache
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/Debug/net8.0/Hola-C-Mundo.sourcelink.json
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/Debug/net8.0/Hola-C-Mundo.dll
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/Debug/net8.0/refint/Hola-C-Mundo.dll
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/Debug/net8.0/Hola-C-Mundo.pdb
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/Debug/net8.0/Hola-C-Mundo.genruntimeconfig.cache
+/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/Debug/net8.0/ref/Hola-C-Mundo.dll
