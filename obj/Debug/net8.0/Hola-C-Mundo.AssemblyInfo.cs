@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hola-C-Mundo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f58333fea61726c7f31361da8c005453f5994f9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b39e276c8cb1f05a1a3e0a9cad330b074300dae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hola-C-Mundo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hola-C-Mundo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

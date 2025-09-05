@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/Hola-C-Mundo.csproj": {}
+    "/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/EjercicioCajero/Hola-C-Mundo/Hola-C-Mundo.csproj": {}
   },
   "projects": {
-    "/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/Hola-C-Mundo.csproj": {
+    "/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/EjercicioCajero/Hola-C-Mundo/Hola-C-Mundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/Hola-C-Mundo.csproj",
+        "projectUniqueName": "/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/EjercicioCajero/Hola-C-Mundo/Hola-C-Mundo.csproj",
         "projectName": "Hola-C-Mundo",
-        "projectPath": "/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/Hola-C-Mundo.csproj",
+        "projectPath": "/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/EjercicioCajero/Hola-C-Mundo/Hola-C-Mundo.csproj",
         "packagesPath": "/home/coders/.nuget/packages/",
-        "outputPath": "/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/holaMundo/Hola-C-Mundo/obj/",
+        "outputPath": "/home/coders/Escritorio/ActividadesMañana/rutaAvanzada/C#/EjercicioCajero/Hola-C-Mundo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/coders/.nuget/NuGet/NuGet.Config"
